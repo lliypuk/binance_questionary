@@ -172,3 +172,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# macOS system files
+.DS_Store
+
+# PyCharm/IntelliJ IDEA
+.idea/
+*.iml
+
+# SQLite DB
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
